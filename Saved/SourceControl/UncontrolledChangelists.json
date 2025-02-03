@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/MainLevel.umap",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/Blueprint/BP_Num7GameModeBase.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/Blueprint/BP_Num7Character.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/Blueprint/BP_Num7PlayerController.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/Input/IA_Move.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/Input/IA_Look.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/Input/IA_Sprint.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/Input/IMC_Character.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/Input/IA_PitchAction.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/Input/IA_YawAction.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/Input/IA_MoveForwardAction.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/Input/IA_MoveRightAction.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/Input/IA_MoveUpAction.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/Input/IA_RollAction.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/Input/IMC_DroneMappingContext.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/Blueprint/BP_DronePawn.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/white-drone/textures/Drawing_drone_Brisk_0925172309_refine.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/white-drone/source/oil_painting_of_a_bla_0925170635_refine.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/white-drone/textures/NewMaterial.uasset",
+				"C:/Users/YangSeongeun/Documents/Unreal Projects/Num7/Content/Input/IA_Jump.uasset"
+			]
+		}
+	]
+}
